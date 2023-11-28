@@ -126,3 +126,8 @@ WHERE a.ano BETWEEN 2000 AND 2020;
 ```
 
 
+Abaixo o Mapa Mental direcionado ao teste das Api's da TRELLO
+
+
+![Mapa Mental Teste QA](https://github.com/flvbinho/Prova-QA/assets/70342110/a870ec84-1e3d-4f5e-a8f6-05c54c8e3bf4)
+
